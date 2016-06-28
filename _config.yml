@@ -1,0 +1,14 @@
+layout_spectrum: 0.2503992288839072
+typography_spectrum: 0.6978978908155113
+color:
+  brandStrength: 0.04786610486917198
+  lightness: 0.9556809028144926
+  saturation: 0.8012826237827539
+  rhythmicContrast: 0.1525707624386996
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: herveo
